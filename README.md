@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/ANANOUMUS2.0/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars//zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/ananoumus2.0/zphisher?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
 </p>
 
@@ -113,7 +113,7 @@ $ zphisher
     docker pull ghcr.io/htr-tech/zphisher:latest
     ```
 
-- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
+- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com//zphisher/master/run-docker.sh)
 
   ```
   $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
@@ -187,4 +187,5 @@ $ zphisher
 <table>
 
 <!-- // -->
+
 
